@@ -1,0 +1,13 @@
+1.fork the repo from original to your own github account  
+2.clone the repo in the local 
+3.go to the repo local 
+4.make a new branch 
+5.make the changes you want to make or add files which you want to add 
+6.stage the files for commit by git add . this command selects the files to commmit
+7.commit the changes you have made by - git commit -m "your commit message "
+8.push the changes to your fork by - git push origin your-branch-name
+9.on your github fork you will the option of making a pull request , 
+
+
+//remeber when you first time setup git , install git , generate your access code configure it and your email and password 
+
